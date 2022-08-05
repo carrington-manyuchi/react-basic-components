@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# composing components together and making sure the logic works is the biggest reason for using react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
